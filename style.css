@@ -1,0 +1,36 @@
+body { 
+    background-color: #121212;
+    padding: 50px 100px;
+    color:whitesmoke;
+    letter-spacing: 1px;
+}
+
+p { 
+    font-family: 'Playfair Display', serif;
+    font-size: 6rem;
+    opacity: 0.9;
+    margin: 0;
+}
+
+a { 
+    color:whitesmoke;
+}
+
+.smiley { 
+    font-size: 5em;
+    margin: 0;
+}
+
+.spacing {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between;
+    font-family: 'Alata', sans-serif;
+    font-size: 0.7em;
+    text-transform: uppercase;
+    text-decoration: underline;
+ }
+
+ .intro { 
+     padding: 60px 0;
+ }
